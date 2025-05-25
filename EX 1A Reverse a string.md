@@ -18,8 +18,8 @@ To write a program to create a recursive function to reverse a string.
 ```
 # Program to implement Reverse a String
 
-# DEVELOPED BY: Ann Blessy Philips
-# REGISTER NUMBER : 212222040008
+# Developed by: Naveen Kumar P
+# Register Number: 212222230092
 
 def rev(s):
     if(len(s)<1):
